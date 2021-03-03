@@ -1,6 +1,6 @@
 <h1>Book Project</h1>
 <p>The project is a laravel/vue project with basic CRUD operations</p>
-<h4>Setup</h4>
+<h3>Setup</h3>
 <ul>
     <li>
         <h4>Install Dependencies</h4>
